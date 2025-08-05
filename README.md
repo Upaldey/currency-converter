@@ -14,11 +14,7 @@ A modern, responsive currency converter web app built with **React**, **Tailwind
 
 ---
 
-## 📸 Screenshot
 
-![Currency Converter UI](screenshot.png) <!-- Replace this with an actual screenshot or remove this line -->
-
----
 
 ## 🛠️ Tech Stack
 
@@ -33,7 +29,6 @@ A modern, responsive currency converter web app built with **React**, **Tailwind
 This app uses the open-source [**Exchange Rate API by @fawazahmed0**](https://github.com/fawazahmed0/exchange-api):
 
 - **GitHub Repo**: [fawazahmed0/exchange-api](https://github.com/fawazahmed0/exchange-api)
-- **Base URL**: `https://api.exchangerate.host` *(no API key required)*
 - **Data**: Up-to-date daily exchange rates for 170+ currencies in JSON format
 
 > Huge thanks to [@fawazahmed0](https://github.com/fawazahmed0) for providing this free API.
